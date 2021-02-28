@@ -8,7 +8,7 @@ The purpose of this project is to analyze temperature data to determine if it is
 
 ![Dec Temp Stats](Resources/dec_temp_stats.png)
 
-* The average temperature in June is about 74 while the average temperature in December is about 71. 
+* The average temperature in June is about 75 while the average temperature in December is about 71. 
 
 * The Highest temperature recoded for June in this data set is about 85 while the highest temperature recorded in the data set for December is 83. 
 
