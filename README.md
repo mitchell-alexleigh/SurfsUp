@@ -4,9 +4,9 @@ The purpose of this project is to analyze temperature data to determine if it is
 
 # Results 
 
-![June Temp Stats](june_temp_stats.png)
+![June Temp Stats](Resources/june_temp_stats.png)
 
-![Dec Temp Stats](dec_temp_stats.png)
+![Dec Temp Stats](Resources/dec_temp_stats.png)
 
 * The average temperature in June is about 74 while the average temperature in December is about 71. 
 
